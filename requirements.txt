@@ -1,4 +1,0 @@
-pip install streamlit streamlit-folium folium
-
-
-cd /Users/trang/Library/Containers/4D9F095F-79D7-4E61-AED9-8B4D89E858AF/Data/Documents/hcmut/252/PROJECTWEB_MAP
